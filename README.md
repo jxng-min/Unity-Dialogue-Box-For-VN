@@ -2,6 +2,8 @@
 
 일반적인 SCG 및 표정 변화를 지원하는 Unity 비주얼노벨 대화 시스템입니다.
 
+![Demo](https://github.com/user-attachments/assets/da79c4ed-9d6a-47b3-809e-e70bf87b5d93)
+
 <br>
 <br>
 
